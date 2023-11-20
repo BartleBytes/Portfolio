@@ -15,7 +15,7 @@
     
     --clr-light: #ebe6e6;
     --clr-dark: #22323d;
-    --clr-accent: #29ffdb;
+    --clr-accent: #1a94e0;
     
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
@@ -472,4 +472,12 @@ header {
     max-width: 600px;
     margin-left: auto;
     margin-right: auto;
+}
+
+.linker {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    left: 50%;
+    color: #1a94e0;
 }
